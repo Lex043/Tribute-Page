@@ -26,15 +26,6 @@
 }
 
 
-.pic {
-    display: flex;
-    float: right;
-}
-
-.pic img {
-    max-width: 100%;
-}
-
 .words {
     position: absolute;
     width: 100%;
@@ -48,6 +39,15 @@
     padding-left: 25px;
     display: flex;
     float: left;
+}
+
+.pic {
+    display: flex;
+    float: right;
+}
+
+.pic img {
+    max-width: 100%;
 }
 
 .bio {
